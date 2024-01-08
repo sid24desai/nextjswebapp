@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"about.html.tsx -> @/components/Buttons":{"id":4659,"files":["static/css/6dded970332b60c8.css","static/chunks/659.700d005b2e442590.js"]}}';
